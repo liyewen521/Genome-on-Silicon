@@ -74,6 +74,8 @@ Genome analysis chip or EDA at top-tier conferences (e.g., ISSCC, DAC, etc).
 | 2023 | DAC        | MeG2: In-Memory Acceleration for Genome Graphs Analysis                                                                                                      | Sequence-to-Graph Alignment | HUST |
 | 2023 | DAC        | UpPipe: A Novel Pipeline Management on In-Memory Processors for RNA-seq Quantification                                                                       | RNA Sequence Quantification | National Cheng Kung University |
 ||||<br>
+| 2024 | DAC      | ScaleFold: Reducing AlphaFold Initial Training Time to 10 Hours                                                                     | Protein Design | NVIDIA |
+||||<br>
 | 2025 | DAC        | AutoRE: Bayesian-Optimization-based Automatic Reliability Enhancement Tool for Flow-based Microfluidic Biochips                                              | Flow-based Microfluidic Biochips | CUHK |
 | 2025 | DAC        | DANN: Diffractive Acoustic Neural Network for in-sensor computing system target at multi-biomarker diagnosis                                                 | Multi-Biomarker Diagnosis | HKU |
 | 2025 | Nature Computational Science | Real-time raw signal genomic analysis using fully integrated memristor hardware                                                            | Targeted Sequencing | HKU |
