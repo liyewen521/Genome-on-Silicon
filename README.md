@@ -57,7 +57,6 @@ Genome analysis architecture at top-tier conferences (e.g., HPCA, ASPLOS, ISCA, 
 | 2026 | HPCA       | GenPairX: A Hardware-Algorithm Co-Designed Accelerator for Paired-End Read Mapping                                                                           | Sequence Alignment | Huawei Technologies |
 | 2026 | HPCA       | NP-CAM: Efficient and Scalable DNA Classification using a NoC-Partitioned CAM Architecture                                                                   | DNA Classification | Duke |
 | 2026 | HPCA       | DP-HLS: A High-Level Synthesis Framework for Accelerating Dynamic Programming Algorithms in Bioinformatics                                                   | Dynamic Programming Framework | UCSD |
-||||<br>
 | 2026 | ISCA       | GRAINS: Enabling High-Performance and Low-Cost Graph-Based Genome Analysis via Storage-Aware Algorithm-Architecture Co-Design                                | Sequence Alignment | ETHZ |
 | 2026 | ISCA       | Lembas: An Appliance for Scalable Genome Alignment                                                                                                           | Sequence Alignment | University of California, Irvine |
 
